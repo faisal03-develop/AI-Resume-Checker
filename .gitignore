@@ -1,6 +1,10 @@
 .DS_Store
 /node_modules/
 
+temp_auto_push.bat
 # React Router
 /.react-router/
 /build/
+.gitignore
+temp_interactive_push.bat
+branch_structure.json

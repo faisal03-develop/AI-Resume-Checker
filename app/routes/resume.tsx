@@ -5,7 +5,7 @@ import { usePuterStore } from '~/lib/Puter'
 import { useNavigate } from "react-router";
 import Summary from '~/components/Summary';
 import Details from '~/components/Details';
-import ATS from '~/components/Ats';
+import ATS from '~/components/ATS';
 
 
 export const meta=()=>([
